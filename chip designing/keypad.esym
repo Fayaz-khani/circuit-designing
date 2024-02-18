@@ -1,0 +1,4 @@
+V G "j" 0 5 "int8"
+D G "_strob" 0 1 "PIN_D4" "Strobe   4094"
+D G "_dat" 0 2 "PIN_C5" "Data     4094"
+D G "_clock" 0 3 "PIN_D2" "Clock    4094"

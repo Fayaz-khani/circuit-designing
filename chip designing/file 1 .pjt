@@ -1,0 +1,48 @@
+[Directories]
+Include=C:\Program Files\PICC\devices\;C:\Program Files\PICC\dr;
+Library=
+LinkerScript=
+[defines]
+enabled=0
+D1=
+V1=
+[fileformats]
+forcecoff=0
+debug=4
+error=2
+object=0
+list=0
+scratch=0
+sta=1
+tre=1
+allerrors=1
+allwarnings=1
+stayupne=3
+stayupoe=0
+[PROJECT]
+Target=file 1 .hex
+Development_Mode=
+Processor=0x452F
+Processor_Text=PIC18F452
+ToolSuite=CCS
+[Target Data]
+BuildTool=C-COMPILER
+OptionString=+FH
+AdditionalOptionString=
+BuildRequired=1
+FileList=C:\Users\ST\Downloads\New folder\file 1 .c
+[file 1 .c]
+Type=4
+Path=
+FileList=
+BuildTool=
+OptionString=
+AdditionalOptionString=
+[mru-list]
+1=H:\F1\file 1 .c
+[Windows]
+0=0000 %S 0 0 796 451 3 0
+[Units]
+Count=1
+1=file 1 .c (main)
+Link=0

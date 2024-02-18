@@ -1,0 +1,15 @@
+>>> Warning 203 "C:\Users\ST\Downloads\New folder\ds1307.c" Line 143(1,1): Condition always TRUE
+>>> Warning 208 "file 1 .c" Line 196(1,12): Function not void and does not return a value  rda_handler
+>>> Warning 216 "file 1 .c" Line 467(0,1): Interrupts disabled during call to prevent re-entrancy:  (@DIV3232)
+>>> Warning 202 "file 1 .c" Line 5(5,8): Variable never used:   rs232_errors
+>>> Warning 202 "file 1 .c" Line 86(14,23): Variable never used:   _clear_fl
+>>> Warning 202 "file 1 .c" Line 89(70,75): Variable never used:   _key2
+>>> Warning 202 "file 1 .c" Line 93(73,78): Variable never used:   _date
+>>> Warning 202 "file 1 .c" Line 95(42,50): Variable never used:   _d_count
+>>> Warning 202 "file 1 .c" Line 98(33,43): Variable never used:   _motor_val
+>>> Warning 202 "C:\Users\ST\Downloads\New folder\methods.c" Line 506(11,16): Variable never used:   _d2_r
+>>> Warning 202 "C:\Users\ST\Downloads\New folder\methods.c" Line 655(13,16): Variable never used:   _rr
+>>> Warning 202 "C:\Users\ST\Downloads\New folder\methods.c" Line 672(13,18): Variable never used:   _d1_r
+>>> Warning 202 "C:\Users\ST\Downloads\New folder\methods.c" Line 1244(7,10): Variable never used:   _to
+      Memory usage:   ROM=59%      RAM=14% - 17%
+      0 Errors,  13 Warnings.
